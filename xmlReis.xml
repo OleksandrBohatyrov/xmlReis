@@ -1,0 +1,849 @@
+<Reisid>
+	<Firma>
+		<Firma Name="Avamba" />
+		<Transport>
+			<Transport Type="United" />
+			<Reis>
+				<Lennujaam Name="Oki Airport" />
+				<Kuupaev>2024-01-01</Kuupaev>
+				<Hind>747</Hind>
+				<Firma>Avamba</Firma>
+				<Algus_Koht>Makilala</Algus_Koht>
+				<Lõpp_Koht>Shisandaogou</Lõpp_Koht>
+				<FirmaRating>5</FirmaRating>
+				<Ekskursioonid>380</Ekskursioonid>
+				<Majutus>1236</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Avamm" />
+		<Transport>
+			<Transport Type="United" />
+			<Reis>
+				<Lennujaam Name="Laredo International Airport" />
+				<Kuupaev>2024-03-22</Kuupaev>
+				<Hind>797</Hind>
+				<Firma>Avamm</Firma>
+				<Algus_Koht>Bukonyo</Algus_Koht>
+				<Lõpp_Koht>Dordrecht</Lõpp_Koht>
+				<FirmaRating>4</FirmaRating>
+				<Ekskursioonid>170</Ekskursioonid>
+				<Majutus>2850</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Babbleopia" />
+		<Transport>
+			<Transport Type="United" />
+			<Reis>
+				<Lennujaam Name="Kugluktuk Airport" />
+				<Kuupaev>2024-02-08</Kuupaev>
+				<Hind>1880</Hind>
+				<Firma>Babbleopia</Firma>
+				<Algus_Koht>Koltushi</Algus_Koht>
+				<Lõpp_Koht>Corredoura</Lõpp_Koht>
+				<FirmaRating>1</FirmaRating>
+				<Ekskursioonid>891</Ekskursioonid>
+				<Majutus>2339</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Babbleset" />
+		<Transport>
+			<Transport Type="Alaska" />
+			<Reis>
+				<Lennujaam Name="Jataí Airport" />
+				<Kuupaev>2023-10-20</Kuupaev>
+				<Hind>955</Hind>
+				<Firma>Babbleset</Firma>
+				<Algus_Koht>Concepción</Algus_Koht>
+				<Lõpp_Koht>Novo Selo</Lõpp_Koht>
+				<FirmaRating>4</FirmaRating>
+				<Ekskursioonid>721</Ekskursioonid>
+				<Majutus>2415</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Blogspan" />
+		<Transport>
+			<Transport Type="American" />
+			<Reis>
+				<Lennujaam Name="Ayapel Airport" />
+				<Kuupaev>2024-08-30</Kuupaev>
+				<Hind>1308</Hind>
+				<Firma>Blogspan</Firma>
+				<Algus_Koht>Cañas</Algus_Koht>
+				<Lõpp_Koht>Cravo Norte</Lõpp_Koht>
+				<FirmaRating>1</FirmaRating>
+				<Ekskursioonid>779</Ekskursioonid>
+				<Majutus>1092</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Brainsphere" />
+		<Transport>
+			<Transport Type="Alaska" />
+			<Reis>
+				<Lennujaam Name="Incirlik Air Base" />
+				<Kuupaev>2023-12-20</Kuupaev>
+				<Hind>295</Hind>
+				<Firma>Brainsphere</Firma>
+				<Algus_Koht>Köping</Algus_Koht>
+				<Lõpp_Koht>Marietta</Lõpp_Koht>
+				<FirmaRating>2</FirmaRating>
+				<Ekskursioonid>258</Ekskursioonid>
+				<Majutus>2103</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Browsezoom" />
+		<Transport>
+			<Transport Type="United" />
+			<Reis>
+				<Lennujaam Name="Hatzfeldhaven Airport" />
+				<Kuupaev>2023-11-22</Kuupaev>
+				<Hind>1593</Hind>
+				<Firma>Browsezoom</Firma>
+				<Algus_Koht>San Nicolas</Algus_Koht>
+				<Lõpp_Koht>Adrasmon</Lõpp_Koht>
+				<FirmaRating>1</FirmaRating>
+				<Ekskursioonid>617</Ekskursioonid>
+				<Majutus>4317</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Centidel" />
+		<Transport>
+			<Transport Type="United" />
+			<Reis>
+				<Lennujaam Name="Contadora Airport" />
+				<Kuupaev>2024-01-31</Kuupaev>
+				<Hind>268</Hind>
+				<Firma>Centidel</Firma>
+				<Algus_Koht>København</Algus_Koht>
+				<Lõpp_Koht>Portela</Lõpp_Koht>
+				<FirmaRating>5</FirmaRating>
+				<Ekskursioonid>185</Ekskursioonid>
+				<Majutus>1390</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Chatterbridge" />
+		<Transport>
+			<Transport Type="Alaska" />
+			<Reis>
+				<Lennujaam Name="Sibi Airport" />
+				<Kuupaev>2024-05-23</Kuupaev>
+				<Hind>128</Hind>
+				<Firma>Chatterbridge</Firma>
+				<Algus_Koht>Itzer</Algus_Koht>
+				<Lõpp_Koht>Wulijie</Lõpp_Koht>
+				<FirmaRating>4</FirmaRating>
+				<Ekskursioonid>803</Ekskursioonid>
+				<Majutus>859</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Cogibox" />
+		<Transport>
+			<Transport Type="American" />
+			<Reis>
+				<Lennujaam Name="Ostrava Leos Janácek Airport" />
+				<Kuupaev>2024-08-25</Kuupaev>
+				<Hind>148</Hind>
+				<Firma>Cogibox</Firma>
+				<Algus_Koht>Grand Rapids</Algus_Koht>
+				<Lõpp_Koht>Tracal</Lõpp_Koht>
+				<FirmaRating>5</FirmaRating>
+				<Ekskursioonid>230</Ekskursioonid>
+				<Majutus>3334</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Dabshots" />
+		<Transport>
+			<Transport Type="United" />
+			<Reis>
+				<Lennujaam Name="Kebar Airport" />
+				<Kuupaev>2024-06-24</Kuupaev>
+				<Hind>341</Hind>
+				<Firma>Dabshots</Firma>
+				<Algus_Koht>Hekou</Algus_Koht>
+				<Lõpp_Koht>Bogale</Lõpp_Koht>
+				<FirmaRating>2</FirmaRating>
+				<Ekskursioonid>172</Ekskursioonid>
+				<Majutus>4435</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Devbug" />
+		<Transport>
+			<Transport Type="JetBlue" />
+			<Reis>
+				<Lennujaam Name="Surgut Airport" />
+				<Kuupaev>2024-01-14</Kuupaev>
+				<Hind>162</Hind>
+				<Firma>Devbug</Firma>
+				<Algus_Koht>New York City</Algus_Koht>
+				<Lõpp_Koht>Morales</Lõpp_Koht>
+				<FirmaRating>1</FirmaRating>
+				<Ekskursioonid>613</Ekskursioonid>
+				<Majutus>2075</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Dynabox" />
+		<Transport>
+			<Transport Type="Spirit" />
+			<Reis>
+				<Lennujaam Name="Big Trout Lake Airport" />
+				<Kuupaev>2023-09-14</Kuupaev>
+				<Hind>1916</Hind>
+				<Firma>Dynabox</Firma>
+				<Algus_Koht>Jiuxian</Algus_Koht>
+				<Lõpp_Koht>Allen</Lõpp_Koht>
+				<FirmaRating>5</FirmaRating>
+				<Ekskursioonid>805</Ekskursioonid>
+				<Majutus>3295</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Dynava" />
+		<Transport>
+			<Transport Type="United" />
+			<Reis>
+				<Lennujaam Name="Prince Abdulmohsin Bin Abdulaziz Airport" />
+				<Kuupaev>2024-09-09</Kuupaev>
+				<Hind>309</Hind>
+				<Firma>Dynava</Firma>
+				<Algus_Koht>Hallsberg</Algus_Koht>
+				<Lõpp_Koht>Kujang</Lõpp_Koht>
+				<FirmaRating>1</FirmaRating>
+				<Ekskursioonid>353</Ekskursioonid>
+				<Majutus>1243</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Eadel" />
+		<Transport>
+			<Transport Type="United" />
+			<Reis>
+				<Lennujaam Name="Akiachak Airport" />
+				<Kuupaev>2024-05-27</Kuupaev>
+				<Hind>184</Hind>
+				<Firma>Eadel</Firma>
+				<Algus_Koht>Stockholm</Algus_Koht>
+				<Lõpp_Koht>Sagopshi</Lõpp_Koht>
+				<FirmaRating>5</FirmaRating>
+				<Ekskursioonid>214</Ekskursioonid>
+				<Majutus>4693</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Eare" />
+		<Transport>
+			<Transport Type="Alaska" />
+			<Reis>
+				<Lennujaam Name="Lake Rudolf Airport" />
+				<Kuupaev>2024-07-17</Kuupaev>
+				<Hind>1303</Hind>
+				<Firma>Eare</Firma>
+				<Algus_Koht>Krikil</Algus_Koht>
+				<Lõpp_Koht>Shchastya</Lõpp_Koht>
+				<FirmaRating>1</FirmaRating>
+				<Ekskursioonid>467</Ekskursioonid>
+				<Majutus>2033</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Eimbee" />
+		<Transport>
+			<Transport Type="JetBlue" />
+			<Reis>
+				<Lennujaam Name="Adirondack Regional Airport" />
+				<Kuupaev>2024-08-29</Kuupaev>
+				<Hind>406</Hind>
+				<Firma>Eimbee</Firma>
+				<Algus_Koht>Kudang</Algus_Koht>
+				<Lõpp_Koht>Tuupovaara</Lõpp_Koht>
+				<FirmaRating>5</FirmaRating>
+				<Ekskursioonid>328</Ekskursioonid>
+				<Majutus>2875</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Feedfire" />
+		<Transport>
+			<Transport Type="Alaska" />
+			<Reis>
+				<Lennujaam Name="Awassa Airport" />
+				<Kuupaev>2023-11-14</Kuupaev>
+				<Hind>461</Hind>
+				<Firma>Feedfire</Firma>
+				<Algus_Koht>Nevel’</Algus_Koht>
+				<Lõpp_Koht>Krasnyy Oktyabr’</Lõpp_Koht>
+				<FirmaRating>3</FirmaRating>
+				<Ekskursioonid>566</Ekskursioonid>
+				<Majutus>2797</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Flipopia" />
+		<Transport>
+			<Transport Type="United" />
+			<Reis>
+				<Lennujaam Name="Singleton Airport" />
+				<Kuupaev>2024-07-23</Kuupaev>
+				<Hind>350</Hind>
+				<Firma>Flipopia</Firma>
+				<Algus_Koht>Yiyang</Algus_Koht>
+				<Lõpp_Koht>Palkovice</Lõpp_Koht>
+				<FirmaRating>4</FirmaRating>
+				<Ekskursioonid>883</Ekskursioonid>
+				<Majutus>1135</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Gabspot" />
+		<Transport>
+			<Transport Type="United" />
+			<Reis>
+				<Lennujaam Name="Zamperini Field" />
+				<Kuupaev>2024-07-10</Kuupaev>
+				<Hind>1948</Hind>
+				<Firma>Gabspot</Firma>
+				<Algus_Koht>Kristianstad</Algus_Koht>
+				<Lõpp_Koht>Rostokino</Lõpp_Koht>
+				<FirmaRating>1</FirmaRating>
+				<Ekskursioonid>617</Ekskursioonid>
+				<Majutus>1696</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Gabtype" />
+		<Transport>
+			<Transport Type="Spirit" />
+			<Reis>
+				<Lennujaam Name="Baramita Airport" />
+				<Kuupaev>2023-11-17</Kuupaev>
+				<Hind>776</Hind>
+				<Firma>Gabtype</Firma>
+				<Algus_Koht>Lunel</Algus_Koht>
+				<Lõpp_Koht>Di An</Lõpp_Koht>
+				<FirmaRating>3</FirmaRating>
+				<Ekskursioonid>577</Ekskursioonid>
+				<Majutus>1185</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Gigabox" />
+		<Transport>
+			<Transport Type="American" />
+			<Reis>
+				<Lennujaam Name="Linköping City Airport" />
+				<Kuupaev>2024-08-04</Kuupaev>
+				<Hind>841</Hind>
+				<Firma>Gigabox</Firma>
+				<Algus_Koht>Ta’ Xbiex</Algus_Koht>
+				<Lõpp_Koht>Ouaoula</Lõpp_Koht>
+				<FirmaRating>1</FirmaRating>
+				<Ekskursioonid>277</Ekskursioonid>
+				<Majutus>3820</Majutus>
+			</Reis>
+		</Transport>
+		<Transport>
+			<Transport Type="Southwest" />
+			<Reis>
+				<Lennujaam Name="Samjiyon Airport" />
+				<Kuupaev>2024-07-11</Kuupaev>
+				<Hind>872</Hind>
+				<Firma>Gigabox</Firma>
+				<Algus_Koht>Jutiapa</Algus_Koht>
+				<Lõpp_Koht>Aioi</Lõpp_Koht>
+				<FirmaRating>3</FirmaRating>
+				<Ekskursioonid>797</Ekskursioonid>
+				<Majutus>1791</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Jatri" />
+		<Transport>
+			<Transport Type="Alaska" />
+			<Reis>
+				<Lennujaam Name="Essen Mulheim Airport" />
+				<Kuupaev>2023-10-26</Kuupaev>
+				<Hind>1202</Hind>
+				<Firma>Jatri</Firma>
+				<Algus_Koht>Los Palacios</Algus_Koht>
+				<Lõpp_Koht>Moch</Lõpp_Koht>
+				<FirmaRating>1</FirmaRating>
+				<Ekskursioonid>202</Ekskursioonid>
+				<Majutus>3927</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Jaxbean" />
+		<Transport>
+			<Transport Type="Southwest" />
+			<Reis>
+				<Lennujaam Name="Gusap Airport" />
+				<Kuupaev>2024-06-18</Kuupaev>
+				<Hind>1900</Hind>
+				<Firma>Jaxbean</Firma>
+				<Algus_Koht>Dongqinggou</Algus_Koht>
+				<Lõpp_Koht>Banjar Buahan</Lõpp_Koht>
+				<FirmaRating>4</FirmaRating>
+				<Ekskursioonid>219</Ekskursioonid>
+				<Majutus>2074</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Jaxworks" />
+		<Transport>
+			<Transport Type="Alaska" />
+			<Reis>
+				<Lennujaam Name="Sultan Aji Muhamad Sulaiman Airport" />
+				<Kuupaev>2024-04-25</Kuupaev>
+				<Hind>1611</Hind>
+				<Firma>Jaxworks</Firma>
+				<Algus_Koht>Skien</Algus_Koht>
+				<Lõpp_Koht>Suvorovo</Lõpp_Koht>
+				<FirmaRating>2</FirmaRating>
+				<Ekskursioonid>404</Ekskursioonid>
+				<Majutus>1455</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Lajo" />
+		<Transport>
+			<Transport Type="Spirit" />
+			<Reis>
+				<Lennujaam Name="Koinambe Airport" />
+				<Kuupaev>2024-09-03</Kuupaev>
+				<Hind>556</Hind>
+				<Firma>Lajo</Firma>
+				<Algus_Koht>Celinac</Algus_Koht>
+				<Lõpp_Koht>Sernovodsk</Lõpp_Koht>
+				<FirmaRating>5</FirmaRating>
+				<Ekskursioonid>483</Ekskursioonid>
+				<Majutus>2078</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Layo" />
+		<Transport>
+			<Transport Type="American" />
+			<Reis>
+				<Lennujaam Name="Marseille Provence Airport" />
+				<Kuupaev>2024-07-11</Kuupaev>
+				<Hind>1861</Hind>
+				<Firma>Layo</Firma>
+				<Algus_Koht>Muyudian</Algus_Koht>
+				<Lõpp_Koht>Xiatang</Lõpp_Koht>
+				<FirmaRating>2</FirmaRating>
+				<Ekskursioonid>384</Ekskursioonid>
+				<Majutus>4168</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Leenti" />
+		<Transport>
+			<Transport Type="Southwest" />
+			<Reis>
+				<Lennujaam Name="Nekemte Airport" />
+				<Kuupaev>2024-07-13</Kuupaev>
+				<Hind>776</Hind>
+				<Firma>Leenti</Firma>
+				<Algus_Koht>Fagersta</Algus_Koht>
+				<Lõpp_Koht>Zykovo</Lõpp_Koht>
+				<FirmaRating>4</FirmaRating>
+				<Ekskursioonid>171</Ekskursioonid>
+				<Majutus>3079</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Livetube" />
+		<Transport>
+			<Transport Type="Spirit" />
+			<Reis>
+				<Lennujaam Name="Akron Canton Regional Airport" />
+				<Kuupaev>2024-07-05</Kuupaev>
+				<Hind>204</Hind>
+				<Firma>Livetube</Firma>
+				<Algus_Koht>El Águila</Algus_Koht>
+				<Lõpp_Koht>Yantang</Lõpp_Koht>
+				<FirmaRating>5</FirmaRating>
+				<Ekskursioonid>725</Ekskursioonid>
+				<Majutus>3475</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Oloo" />
+		<Transport>
+			<Transport Type="American" />
+			<Reis>
+				<Lennujaam Name="Republic Airport" />
+				<Kuupaev>2024-03-25</Kuupaev>
+				<Hind>1114</Hind>
+				<Firma>Oloo</Firma>
+				<Algus_Koht>Vicuña</Algus_Koht>
+				<Lõpp_Koht>Piedra Blanca</Lõpp_Koht>
+				<FirmaRating>3</FirmaRating>
+				<Ekskursioonid>527</Ekskursioonid>
+				<Majutus>1227</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Photofeed" />
+		<Transport>
+			<Transport Type="Alaska" />
+			<Reis>
+				<Lennujaam Name="Arthur N Neu Airport" />
+				<Kuupaev>2024-04-19</Kuupaev>
+				<Hind>1455</Hind>
+				<Firma>Photofeed</Firma>
+				<Algus_Koht>Lukolela</Algus_Koht>
+				<Lõpp_Koht>Chelgard</Lõpp_Koht>
+				<FirmaRating>5</FirmaRating>
+				<Ekskursioonid>124</Ekskursioonid>
+				<Majutus>3318</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Realblab" />
+		<Transport>
+			<Transport Type="Delta" />
+			<Reis>
+				<Lennujaam Name="Cork Airport" />
+				<Kuupaev>2023-11-19</Kuupaev>
+				<Hind>1120</Hind>
+				<Firma>Realblab</Firma>
+				<Algus_Koht>Popovi</Algus_Koht>
+				<Lõpp_Koht>Xinquan</Lõpp_Koht>
+				<FirmaRating>2</FirmaRating>
+				<Ekskursioonid>733</Ekskursioonid>
+				<Majutus>1427</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Rhycero" />
+		<Transport>
+			<Transport Type="American" />
+			<Reis>
+				<Lennujaam Name="Pincher Creek Airport" />
+				<Kuupaev>2024-04-14</Kuupaev>
+				<Hind>672</Hind>
+				<Firma>Rhycero</Firma>
+				<Algus_Koht>Longju</Algus_Koht>
+				<Lõpp_Koht>San Remigio</Lõpp_Koht>
+				<FirmaRating>3</FirmaRating>
+				<Ekskursioonid>250</Ekskursioonid>
+				<Majutus>4570</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Riffpedia" />
+		<Transport>
+			<Transport Type="Alaska" />
+			<Reis>
+				<Lennujaam Name="Rogers Municipal Airport-Carter Field" />
+				<Kuupaev>2023-10-14</Kuupaev>
+				<Hind>808</Hind>
+				<Firma>Riffpedia</Firma>
+				<Algus_Koht>Henghe</Algus_Koht>
+				<Lõpp_Koht>Ma‘bar</Lõpp_Koht>
+				<FirmaRating>3</FirmaRating>
+				<Ekskursioonid>180</Ekskursioonid>
+				<Majutus>3255</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Roomm" />
+		<Transport>
+			<Transport Type="Spirit" />
+			<Reis>
+				<Lennujaam Name="Ouro Sogui Airport" />
+				<Kuupaev>2024-04-20</Kuupaev>
+				<Hind>128</Hind>
+				<Firma>Roomm</Firma>
+				<Algus_Koht>Krivaja</Algus_Koht>
+				<Lõpp_Koht>Tmourghout</Lõpp_Koht>
+				<FirmaRating>2</FirmaRating>
+				<Ekskursioonid>762</Ekskursioonid>
+				<Majutus>3329</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Shuffletag" />
+		<Transport>
+			<Transport Type="JetBlue" />
+			<Reis>
+				<Lennujaam Name="Mokuti Lodge Airport" />
+				<Kuupaev>2024-07-09</Kuupaev>
+				<Hind>752</Hind>
+				<Firma>Shuffletag</Firma>
+				<Algus_Koht>Nagua</Algus_Koht>
+				<Lõpp_Koht>Avranches</Lõpp_Koht>
+				<FirmaRating>4</FirmaRating>
+				<Ekskursioonid>696</Ekskursioonid>
+				<Majutus>2488</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Skipstorm" />
+		<Transport>
+			<Transport Type="Southwest" />
+			<Reis>
+				<Lennujaam Name="Hawkins Field" />
+				<Kuupaev>2024-06-02</Kuupaev>
+				<Hind>1634</Hind>
+				<Firma>Skipstorm</Firma>
+				<Algus_Koht>Sawang Daen Din</Algus_Koht>
+				<Lõpp_Koht>Puerto Nariño</Lõpp_Koht>
+				<FirmaRating>1</FirmaRating>
+				<Ekskursioonid>394</Ekskursioonid>
+				<Majutus>4117</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Tagfeed" />
+		<Transport>
+			<Transport Type="Alaska" />
+			<Reis>
+				<Lennujaam Name="Pike County-Hatcher Field" />
+				<Kuupaev>2024-02-06</Kuupaev>
+				<Hind>742</Hind>
+				<Firma>Tagfeed</Firma>
+				<Algus_Koht>Cruz</Algus_Koht>
+				<Lõpp_Koht>Sankanan</Lõpp_Koht>
+				<FirmaRating>5</FirmaRating>
+				<Ekskursioonid>655</Ekskursioonid>
+				<Majutus>1512</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Tagopia" />
+		<Transport>
+			<Transport Type="American" />
+			<Reis>
+				<Lennujaam Name="Selfridge Air National Guard Base Airport" />
+				<Kuupaev>2023-10-26</Kuupaev>
+				<Hind>919</Hind>
+				<Firma>Tagopia</Firma>
+				<Algus_Koht>Ketitang Wetan</Algus_Koht>
+				<Lõpp_Koht>Moca</Lõpp_Koht>
+				<FirmaRating>4</FirmaRating>
+				<Ekskursioonid>875</Ekskursioonid>
+				<Majutus>1247</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Talane" />
+		<Transport>
+			<Transport Type="Spirit" />
+			<Reis>
+				<Lennujaam Name="Banja Luka International Airport" />
+				<Kuupaev>2023-10-07</Kuupaev>
+				<Hind>1755</Hind>
+				<Firma>Talane</Firma>
+				<Algus_Koht>Le Blanc-Mesnil</Algus_Koht>
+				<Lõpp_Koht>Pameungpeuk</Lõpp_Koht>
+				<FirmaRating>2</FirmaRating>
+				<Ekskursioonid>401</Ekskursioonid>
+				<Majutus>2347</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Tazz" />
+		<Transport>
+			<Transport Type="Southwest" />
+			<Reis>
+				<Lennujaam Name="Medina Airport" />
+				<Kuupaev>2024-07-10</Kuupaev>
+				<Hind>939</Hind>
+				<Firma>Tazz</Firma>
+				<Algus_Koht>Sison</Algus_Koht>
+				<Lõpp_Koht>Mozi</Lõpp_Koht>
+				<FirmaRating>5</FirmaRating>
+				<Ekskursioonid>739</Ekskursioonid>
+				<Majutus>1543</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Teklist" />
+		<Transport>
+			<Transport Type="Delta" />
+			<Reis>
+				<Lennujaam Name="Coulter Field" />
+				<Kuupaev>2023-10-09</Kuupaev>
+				<Hind>1931</Hind>
+				<Firma>Teklist</Firma>
+				<Algus_Koht>Daxing</Algus_Koht>
+				<Lõpp_Koht>Gala</Lõpp_Koht>
+				<FirmaRating>2</FirmaRating>
+				<Ekskursioonid>115</Ekskursioonid>
+				<Majutus>3206</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Twitterbeat" />
+		<Transport>
+			<Transport Type="United" />
+			<Reis>
+				<Lennujaam Name="Tribhuvan International Airport" />
+				<Kuupaev>2024-08-01</Kuupaev>
+				<Hind>1323</Hind>
+				<Firma>Twitterbeat</Firma>
+				<Algus_Koht>Vila Franca de Xira</Algus_Koht>
+				<Lõpp_Koht>Drenova</Lõpp_Koht>
+				<FirmaRating>1</FirmaRating>
+				<Ekskursioonid>321</Ekskursioonid>
+				<Majutus>2040</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Twitterworks" />
+		<Transport>
+			<Transport Type="Alaska" />
+			<Reis>
+				<Lennujaam Name="Kandla Airport" />
+				<Kuupaev>2024-02-08</Kuupaev>
+				<Hind>1845</Hind>
+				<Firma>Twitterworks</Firma>
+				<Algus_Koht>Mae Chan</Algus_Koht>
+				<Lõpp_Koht>Xiaoxiang</Lõpp_Koht>
+				<FirmaRating>1</FirmaRating>
+				<Ekskursioonid>211</Ekskursioonid>
+				<Majutus>3886</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Wordify" />
+		<Transport>
+			<Transport Type="Spirit" />
+			<Reis>
+				<Lennujaam Name="Auxerre-Branches Airport" />
+				<Kuupaev>2023-10-13</Kuupaev>
+				<Hind>873</Hind>
+				<Firma>Wordify</Firma>
+				<Algus_Koht>Przybyszówka</Algus_Koht>
+				<Lõpp_Koht>Banjar Bias</Lõpp_Koht>
+				<FirmaRating>3</FirmaRating>
+				<Ekskursioonid>355</Ekskursioonid>
+				<Majutus>2757</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Wordtune" />
+		<Transport>
+			<Transport Type="Spirit" />
+			<Reis>
+				<Lennujaam Name="Makoua Airport" />
+				<Kuupaev>2024-03-01</Kuupaev>
+				<Hind>526</Hind>
+				<Firma>Wordtune</Firma>
+				<Algus_Koht>Ban Phai</Algus_Koht>
+				<Lõpp_Koht>Al Jumayliyah</Lõpp_Koht>
+				<FirmaRating>5</FirmaRating>
+				<Ekskursioonid>895</Ekskursioonid>
+				<Majutus>2853</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Yambee" />
+		<Transport>
+			<Transport Type="United" />
+			<Reis>
+				<Lennujaam Name="Al Ghaidah International Airport" />
+				<Kuupaev>2024-06-19</Kuupaev>
+				<Hind>404</Hind>
+				<Firma>Yambee</Firma>
+				<Algus_Koht>Debe</Algus_Koht>
+				<Lõpp_Koht>Putou</Lõpp_Koht>
+				<FirmaRating>5</FirmaRating>
+				<Ekskursioonid>767</Ekskursioonid>
+				<Majutus>3421</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Zava" />
+		<Transport>
+			<Transport Type="Spirit" />
+			<Reis>
+				<Lennujaam Name="Catania-Fontanarossa Airport" />
+				<Kuupaev>2024-04-24</Kuupaev>
+				<Hind>1907</Hind>
+				<Firma>Zava</Firma>
+				<Algus_Koht>Rizal</Algus_Koht>
+				<Lõpp_Koht>Dongyang</Lõpp_Koht>
+				<FirmaRating>5</FirmaRating>
+				<Ekskursioonid>389</Ekskursioonid>
+				<Majutus>3216</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+	<Firma>
+		<Firma Name="Zoomcast" />
+		<Transport>
+			<Transport Type="Delta" />
+			<Reis>
+				<Lennujaam Name="Nangasuri Airport" />
+				<Kuupaev>2023-10-13</Kuupaev>
+				<Hind>1803</Hind>
+				<Firma>Zoomcast</Firma>
+				<Algus_Koht>Wuxia</Algus_Koht>
+				<Lõpp_Koht>Longtang</Lõpp_Koht>
+				<FirmaRating>1</FirmaRating>
+				<Ekskursioonid>230</Ekskursioonid>
+				<Majutus>4788</Majutus>
+			</Reis>
+		</Transport>
+	</Firma>
+</Reisid>
