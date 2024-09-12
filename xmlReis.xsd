@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Reisid">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" name="Firma">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Firma">
+								<xs:complexType>
+									<xs:attribute name="Name" type="xs:string" use="required" />
+								</xs:complexType>
+							</xs:element>
+							<xs:element maxOccurs="unbounded" name="Transport">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Transport">
+											<xs:complexType>
+												<xs:attribute name="Type" type="xs:string" use="required" />
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="Reis">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="Lennujaam">
+														<xs:complexType>
+															<xs:attribute name="Name" type="xs:string" use="required" />
+														</xs:complexType>
+													</xs:element>
+													<xs:element name="Kuupaev" type="xs:date" />
+													<xs:element name="Hind" type="xs:unsignedShort" />
+													<xs:element name="Firma" type="xs:string" />
+													<xs:element name="Algus_Koht" type="xs:string" />
+													<xs:element name="Lõpp_Koht" type="xs:string" />
+													<xs:element name="FirmaRating" type="xs:unsignedByte" />
+													<xs:element name="Ekskursioonid" type="xs:unsignedShort" />
+													<xs:element name="Majutus" type="xs:unsignedShort" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
